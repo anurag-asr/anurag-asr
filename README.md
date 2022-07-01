@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I am Anurag Singh Rajawat 👋
 
-<!--
-**anurag-asr/anurag-asr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
+- 🔭 I’m currently working on .Skill Buildup
+- 🌱 I’m currently learning Full Stack Web Developer ..
+- 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Tech Related Stuffs
+- 📫 How to reach me: Linkdin-anurag-asr, Email-anurjwt@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I like to watch netflix daily
+
