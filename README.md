@@ -1,4 +1,4 @@
-### Welcome to be here, I am Anurag Singh and a software developer👋
+### Welcome, I am Anurag Singh and a software developer👋
 
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning how to be a good listner and speaker...
