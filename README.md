@@ -1,9 +1,6 @@
-### Hi there 👋, I am Anurag Singh 
-#### Full Stack Developer
+### Hi there 👋, I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
+
 ![Full Stack Developer](https://www.link-academy.com/cms/mestoZaUploadFajlove/munca-de-programare-full-stack.jpg)
-
-Welcome, I am full stack developers who always seek creativity in my design and love for coding and algorithms
-
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning how to be a good listner and speaker 
 - 💬 Ask me about Designs 
