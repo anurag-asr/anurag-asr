@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
 
-![Full Stack Developer](https://www.link-academy.com/cms/mestoZaUploadFajlove/munca-de-programare-full-stack.jpg)
+![Full Stack Developer](https://github.com/anurag-asr/anurag-asr/blob/main/img12.jpg)
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning how to be a good listner and speaker 
 - 💬 Ask me about Designs 
