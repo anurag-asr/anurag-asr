@@ -1,6 +1,6 @@
-### Hi there 👋, am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
+### Hi there 👋,I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
 
-- 🔭 I’m currently working on my skills 
+
 - 🌱 I’m currently learning how to be a good listner and speaker 
 - 💬 Ask me about Designs 
 - 📫 How to reach me: just pink me on linkdin:anurag-asr 
