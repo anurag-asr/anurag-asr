@@ -1,7 +1,7 @@
 
 <img src="https://images.unsplash.com/photo-1492138786289-d35ea832da43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="100%" height="400px"/>
-<h1>Hi there 👋,I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
-</h1>
+<h2>Hi there 👋,I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
+</h2>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" 
      align="right" width="400"/>
    
@@ -36,9 +36,7 @@
 
 
 
-- 📝 I regularly write articles on [@sds](@sds)
 
-- 📄 Know about my experiences [@sdsdd](@sdsdd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
