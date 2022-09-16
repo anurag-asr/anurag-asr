@@ -2,7 +2,7 @@
 <img src="https://github.com/anurag-asr/anurag-asr/blob/main/img12.jpg" alt="hello" width="250%" height="400" align="center"/>
 <h1>Hi there 👋,I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
 </h1>
-<img src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200w.webp?cid=ecf05e47hbo9ck9m2uw6l3ra6pkjceupmgp528rdrf47yx08&rid=200w.webp&ct=g" alt="coding" 
+<img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" 
      align="right" width="400"/>
    
 
