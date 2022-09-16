@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://anurag-asr.github.io/anurag-asr.github.io./]
 - 💬 Ask me anything about web-designing I am happy to help you !
 - 📫 How to reach me:anurjwt@gmail.com
-- ⚡ Fun fact: want to climb mount everest    
+- ⚡ Fun fact: want to climb mount everest 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-arr&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-arr" /> </p>  
 
      
