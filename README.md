@@ -1,13 +1,14 @@
 
-<img src="https://github.com/anurag-asr/anurag-asr/blob/main/img12.jpg" alt="hello" width="250%" height="400" align="center"/>
+<img src="https://images.unsplash.com/photo-1587620931276-d97f425f62b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI5fHxjb2Rpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" width="100%" height="400px"/>
 <h1>Hi there 👋,I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
 </h1>
-<img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" 
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" 
      align="right" width="400"/>
    
 
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning how to be a good listner and speaker 
+- 👨‍💻 All of my projects are available at [https://anurag-asr.github.io/anurag-asr.github.io./]
 - 💬 Ask me anything about web-designing I am happy to help you !
 - 📫 How to reach me:anurjwt@gmail.com
 - ⚡ Fun fact: want to climb mount everest  
@@ -33,7 +34,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [@gamaibd](@gamaibd)
+
 
 - 📝 I regularly write articles on [@sds](@sds)
 
