@@ -16,3 +16,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anurag-asr)  
 
 ![Full Stack Developer](https://github.com/anurag-asr/anurag-asr/blob/main/img12.jpg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-asr" alt="hello" width="100%" height="100"/>
