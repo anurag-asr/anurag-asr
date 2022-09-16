@@ -1,5 +1,5 @@
 
-<img src="https://images.unsplash.com/photo-1587620931276-d97f425f62b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI5fHxjb2Rpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" width="100%" height="400px"/>
+<img src="https://images.unsplash.com/photo-1492138786289-d35ea832da43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="100%" height="400px"/>
 <h1>Hi there 👋,I am Anurag Singh and a Full Stack Developer who always seek creativity in my design and love for coding and algorithms
 </h1>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" 
@@ -27,7 +27,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anurag-asr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anurag-asr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mister-A/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-asr&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anurag-asr)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-asr&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anurag-asr)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anurag-asr)  
 
